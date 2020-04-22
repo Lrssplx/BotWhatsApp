@@ -1,9 +1,5 @@
 
      
-     
-      #<span dir="auto" title="Bloco do eu sozinho" class="_1wjpf _3NFp9 _3FXB1">Bloco do eu sozinho</span>
-      # <div tabindex="-1" class="_1Plpp"> 
-      # <span data-icon="send" class=""> 
 
 import time
 from selenium import webdriver
